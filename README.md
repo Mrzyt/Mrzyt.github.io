@@ -7,9 +7,5 @@
 ##主题地址
 [https://github.com/it-ebooks/blog/tree/master/themes/landfarz](https://github.com/it-ebooks/blog/tree/master/themes/landfarz)
 
-##Author
-博客修改:zhaoyongtao
-
-
 ##License
 MIT
